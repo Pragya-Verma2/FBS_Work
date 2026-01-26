@@ -849,26 +849,3 @@ select * from diagnostic_tests;
 
 SELECT test_id, test_name FROM Diagnostic_Tests;
 select * from test_result;
-
-
-
-
-create database jobs;
-use jobs;
-select* from users;
-select* from jobs;
-
-use kilo;
-select * from users;
-select * from jobs;
-
-
-
-
-
-
-
-
-
-
-
