@@ -844,8 +844,4 @@ INSERT INTO Medical_Procedures (Procedure_ID, Record_ID, Procedure_Name, Procedu
 (25, 47, 'Skin Biopsy', '2025-04-05');
 
 
-select * from records;
-select * from diagnostic_tests;
 
-SELECT test_id, test_name FROM Diagnostic_Tests;
-select * from test_result;
